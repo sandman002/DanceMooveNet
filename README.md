@@ -1,6 +1,6 @@
 # DanceMooveNet
 A simple dance move generator based on temporal positional embedding and a feed forward network.
-The network has been trained on AIST++ dataset using only the optimised 3d keypoints. The network takes a random vector sampled from a gaussian normal distribution of 128 dimensions. The generator and discriminators are conditioned on genre of music (60 genres).
+The network has been trained on [AIST++](https://aistdancedb.ongaaccel.jp/) dataset using only the optimised 3d keypoints. The network takes a random vector sampled from a gaussian normal distribution of 128 dimensions. The generator and discriminators are conditioned on genre of music (60 genres).
 
 Furthe improvements are needed. The conditioning can be done using the actual audio feature rather than the genre label. Current conditioning performs poorly. Instead of 3d joints position, working with SMPL representation for the body might be more useful for extending the animation to 3d softwares.
 
