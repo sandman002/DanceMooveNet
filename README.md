@@ -12,8 +12,8 @@ Furthe improvements are needed. The conditioning can be done using the actual au
     <td>Few generated sequences</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sandman002/DanceMooveNet/blob/main/anim/gt.gif" width="470" /></td>
-    <td><img src="https://github.com/sandman002/DanceMooveNet/blob/main/anim/pics.gif" width="470" /></td>
+    <td><img src="https://github.com/sandman002/DanceMooveNet/blob/main/anim/gt.gif" width="370" /></td>
+    <td><img src="https://github.com/sandman002/DanceMooveNet/blob/main/anim/pics.gif" width="370" /></td>
   </tr>
  </table>
 
