@@ -8,7 +8,7 @@ Furthe improvements are needed. The conditioning can be done using the actual au
 
 <table>
   <tr>
-    <td>Few groundtruth sequences</td>
+    <td>Few training sequences</td>
     <td>Few generated sequences</td>
   </tr>
   <tr>
